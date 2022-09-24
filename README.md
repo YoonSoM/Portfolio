@@ -1,3 +1,5 @@
 # Portfolio
 ---
-This is my portfolio I wrote a README for each project, so I'd appreciate it if you read it
+This is my portfolio Each project has keypoints and components written in README, so I would appreciate it if you could read them.
+----
+
