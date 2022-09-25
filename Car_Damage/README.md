@@ -9,4 +9,4 @@
 5. Instance Segmentation
 - 치량 파손이미지를 인식하여 인식 부위와 여부를 판단해 소비자와 기업에게 도움을 주는 프로젝트 입니다.
 ---
-[PPT link](https://github.com/YoonSoM/Portfolio/tree/main/Generating_Poems/PPT)
+[PPT link](https://github.com/YoonSoM/Portfolio/tree/main/Car_Damage/PPT)
