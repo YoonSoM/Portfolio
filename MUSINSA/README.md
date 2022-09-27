@@ -2,6 +2,6 @@
 
 ### 주요기능
 1. 사용한 모델 (KoEDA)(BERT)
-- 졸음운전 예방을 위한 운전자 상태 정보를 인식하여 졸음운전을 사전 방지하는 프로젝트입니다.
+- 무신사에서의 별점과 댓글의 반응 차이가 달라 실질적으로 별점만 신뢰할 수 없기때문에 새로운 평가지표를 만들어야 한다고 생각한 프로젝트입니다
 ---
 [PPT link](https://github.com/YoonSoM/Portfolio/tree/main/Safe_driving/PPT)
